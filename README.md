@@ -7,9 +7,7 @@ The goal of the app is to allow users to meet potential cruisers either before t
 Currently, an app for this market does not exist.
 
 
-[GitHub Repo 1](https://github.com/jfish1996/shipchat)
-
-[GitHub Repo 2](https://github.com/jfish1996/NyachtServer)
+[GitHub Repo 1](thttps://github.com/gwyscaver/project3_seacruiser_front),[GitHub Repo 2](https://github.com/gwyscaver/project3_seacruiser_server)
 
 [Video Playback](https://youtu.be/2AwJHQkH19U)
 
